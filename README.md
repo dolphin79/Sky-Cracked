@@ -7,7 +7,7 @@
 #### > Secondary sales are prohibited ! 
 #### > Widespread dissemination is prohibited !
 ## Developers
-#### > Sky Bai Zi
+#### > Sky Siloco-Chen
 #### > Sky Dolphin
 ## MIT License ChineseVersion
 ### MIT 许可证 
